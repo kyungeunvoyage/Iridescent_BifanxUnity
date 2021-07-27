@@ -1,5 +1,5 @@
 # 2021 Iridescent_Bifan x Unity
-부천국제영화제 x Unity3D short film challenge 수상작 'Iridescent'
+Bucheon International Fantastic Film Festival x Unity3D short film challenge nominated Interactive VR FILM 'Iridescent'
 > Unity 3D , Oculus Quest2 
 
 Short video of Iridescent : https://youtu.be/PzeZLwYXSyw
